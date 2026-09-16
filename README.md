@@ -100,11 +100,11 @@ Data Files   : students.dat, courses.dat, enrollments.dat
 | Student ID      | Code     | Name                       | Major              | Year | Status  |
 ---------------------------------------------------------------------------------------------------
 | 6906022610001   | STD001   | กัญญารัตน์ สุขเจริญ           | Data Science       | 2    | Active  |
-| 6906022610002   | STD002   | ณภัทร ไทยเจริญ               | Computer Science   | 4    | Active  |
-| 6906022610003   | STD003   | ธีรภัทร ตั้งศิริ              | Cybersecurity      | 1    | Active  |
+| 6906022610002   | STD002   | ณภัทร ไทยเจริญ             | Computer Science   | 4    | Active  |
+| 6906022610003   | STD003   | ธีรภัทร ตั้งศิริ                | Cybersecurity      | 1    | Active  |
 | 6906022610004   | STD004   | นภัสสร เดชะกุล              | Software Eng.      | 3    | Active  |
-| 6906022610005   | STD005   | ปวริศ บุญมี                  | Information Tech   | 2    | Active  |
-| 6906022610010   | STD010   | อนันต์ รัตนมณี                | Computer Science   | 4    | Deleted |
+| 6906022610005   | STD005   | ปวริศ บุญมี                 | Information Tech   | 2    | Active  |
+| 6906022610010   | STD010   | อนันต์ รัตนมณี               | Computer Science   | 4    | Deleted |
 ---------------------------------------------------------------------------------------------------
 
 === 3. ประวัติการลงทะเบียนเรียน (Enrollments) ===
